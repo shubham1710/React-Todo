@@ -45,7 +45,7 @@ function FormTodo({ addTodo }) {
 function App() {
   const [todos, setTodos] = React.useState([
     {
-      text: "This is your first Todo",
+      text: "This is a sampe todo",
       isDone: false
     }
   ]);
